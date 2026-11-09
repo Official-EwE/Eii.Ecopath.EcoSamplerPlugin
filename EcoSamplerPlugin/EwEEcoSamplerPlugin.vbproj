@@ -99,7 +99,7 @@
     <None Update="UserGuide\EcoSampler-user-manual.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Pack>true</Pack>
-      <PackagePath>contentFiles\any\any\</PackagePath>
+      <PackagePath>contentFiles\any\net48\</PackagePath>
       <PackageCopyToOutput>true</PackageCopyToOutput>
     </None>
   </ItemGroup>
