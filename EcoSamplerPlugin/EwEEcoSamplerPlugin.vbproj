@@ -98,10 +98,13 @@
     </None>
     <None Update="UserGuide\EcoSampler-user-manual.pdf">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Pack>true</Pack>
+      <PackagePath>contentFiles\any\any\</PackagePath>
+      <PackageCopyToOutput>true</PackageCopyToOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
-    
+
   </ItemGroup>
   <ItemGroup>
     <Content Include="Documentation\Assets\UI-layout-recorded.png" />
